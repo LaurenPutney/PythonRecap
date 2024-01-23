@@ -1,1 +1,4 @@
-.venv/
+#list out any/all folders and files we want to ignore --> VE for this example
+myvenv/
+#/ indicates to git to ignore EVERYTHING underneath the parent file of myvenv
+#once you save, number in source control should DROP
